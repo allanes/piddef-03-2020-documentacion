@@ -1,5 +1,5 @@
-## Introducción
-Software de simulación de Radar OTH (Sobre-horizonte). 
+## Software de simulación de Radar Sobre-Horizonte (OTH)
+ 
 PIDDEF 03-2020.
 
 Este repositorio contiene la guía de Instalación del **Software de Simulación de Radar OTH**.
